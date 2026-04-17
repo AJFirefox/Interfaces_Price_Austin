@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces_Price_Austin", "Interfaces_Price_Austin.csproj", "{31068041-B416-4A9C-ABBF-0AB3515CA066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31068041-B416-4A9C-ABBF-0AB3515CA066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31068041-B416-4A9C-ABBF-0AB3515CA066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31068041-B416-4A9C-ABBF-0AB3515CA066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31068041-B416-4A9C-ABBF-0AB3515CA066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {461E94A0-5788-4CD1-99A5-2E29AD85835B}
+	EndGlobalSection
+EndGlobal
